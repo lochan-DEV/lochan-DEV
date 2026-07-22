@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Lochan 
 
-<!--
-**lochan-DEV/lochan-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Science Student from India
 
-Here are some ideas to get you started:
+##  Currently Learning
+- CS50P (Harvard)
+- Python
+- Data Structures & Algorithms
+- LeetCode
+- Exercism
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Goals for 2026
+- Complete CS50P
+- Solve 300+ LeetCode problems
+- Build real-world Flask projects
+- Participate in hackathons
+- Learn HTML, CSS & JavaScript
+- Learn Backend Development
+
+##  Featured Projects
+-  Python Learning
+-  Exercism Solutions
+-  LeetCode Solutions
+
+##  Current Focus
+- Improving problem-solving skills
+- Writing clean Python code
+- Building portfolio projects
+- Preparing for software engineering internships
+
+##  Connect
+- GitHub: https://github.com/lochan-DEV
+- LinkedIn: https://www.linkedin.com/in/lochan-g/
+- Exercism: https://exercism.org/profiles/lochan-DEV
+- LeetCode: https://leetcode.com/u/Lochan-DEV/
+
+ Thanks for visiting my profile!
