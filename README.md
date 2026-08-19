@@ -1,26 +1,26 @@
 # Hi, I'm Lochan 
 
- Computer Science Student from India
+  Pre-engineering student (CSE), from Bangalore, India — in my gap period before BTech starts, building a strong foundation in Python and DSA
 
 ##  Currently Learning
-- CS50P (Harvard)
-- Python
-- Data Structures & Algorithms
-- LeetCode
-- Exercism
+- Python — [working through Harvard's CS50P]
+- Data Structures & Algorithms — arrays, linked lists, stacks, queues, sorting (bubble/selection), linear & binary search
+- LeetCode — solving problems daily to build DSA fluency (Python)
+- Exercism — solving practice exercises alongside CS50P
 
 ##  Goals for 2026
-- Complete CS50P
-- Solve 300+ LeetCode problems
-- Build real-world Flask projects
+- Get a solid grip on Python fundamentals + core DSA topics
+- Learn HTML, CSS, and basic Flask
+- Basic API usage in Python
 - Participate in hackathons
-- Learn HTML, CSS & JavaScript
-- Learn Backend Development
+- Land 2–3 internships during college
+- Learn backend development in depth
 
 ##  Featured Projects
 -  Python Learning
 -  Exercism Solutions
 -  LeetCode Solutions
+-  Library Management System
 
 ##  Current Focus
 - Improving problem-solving skills
