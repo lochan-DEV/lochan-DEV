@@ -13,7 +13,7 @@
 - Learn HTML, CSS, and basic Flask
 - Basic API usage in Python
 - Participate in hackathons
-- Land 2–3 internships during college
+- Land internships during college
 - Learn backend development in depth
 
 ##  Featured Projects
