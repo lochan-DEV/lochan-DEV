@@ -20,7 +20,7 @@
 -  Python Learning
 -  Exercism Solutions
 -  LeetCode Solutions
--  Library Management System
+-  Library Management System [my first project]
 
 ##  Current Focus
 - Improving problem-solving skills
