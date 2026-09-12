@@ -1,12 +1,13 @@
 # Hi, I'm Lochan 
 
-  Pre-engineering student (CSE), from Bangalore, India — in my gap period before BTech starts, building a strong foundation in Python and DSA
+  engineering student (CSE-AIML) in RNSIT ENGINEERING college , from Bangalore, India —  BTech 1st year , building a strong foundation in Python and DSA
 
 ##  Currently Learning
 - Python — [working through Harvard's CS50P]
 - Data Structures & Algorithms — arrays, linked lists, stacks, queues, sorting (bubble/selection), linear & binary search
 - LeetCode — solving problems daily to build DSA fluency (Python)
 - Exercism — solving practice exercises alongside CS50P
+- web_development - html,css
 
 ##  Goals for 2026
 - Get a solid grip on Python fundamentals + core DSA topics
@@ -33,5 +34,6 @@
 - LinkedIn: https://www.linkedin.com/in/lochan-g/
 - Exercism: https://exercism.org/profiles/lochan-DEV
 - LeetCode: https://leetcode.com/u/Lochan-DEV/
+- email id: lochan1410a@gmail.com
 
  Thanks for visiting my profile!
