@@ -1,39 +1,47 @@
-# Hi, I'm Lochan 
+# Hi  I'm Lochan 
 
-  engineering student (CSE-AIML) in RNSIT ENGINEERING college , from Bangalore, India —  BTech 1st year , building a strong foundation in Python and DSA
+I'm a first-year CSE-AIML student at RNSIT, Bangalore.
 
-##  Currently Learning
-- Python — [working through Harvard's CS50P]
-- Data Structures & Algorithms — arrays, linked lists, stacks, queues, sorting (bubble/selection), linear & binary search
-- LeetCode — solving problems daily to build DSA fluency (Python)
-- Exercism — solving practice exercises alongside CS50P
-- web_development - html,css
+Currently building my programming fundamentals with Python and learning the basics of web development and problem solving.
 
-##  Goals for 2026
-- Get a solid grip on Python fundamentals + core DSA topics
-- Learn HTML, CSS, and basic Flask
-- Basic API usage in Python
-- Participate in hackathons
-- Land internships during college
-- Learn backend development in depth
+## Currently Learning
 
-##  Featured Projects
--  Python Learning
--  Exercism Solutions
--  LeetCode Solutions
--  Library Management System [my first project]
+* Python — working through Harvard's CS50P
+* C — learning the fundamentals as part of my college coursework
+* DSA — learning basic data structures and algorithms
+* HTML & CSS — building simple web pages
+* Git & GitHub — learning to manage and document my projects
 
-##  Current Focus
-- Improving problem-solving skills
-- Writing clean Python code
-- Building portfolio projects
-- Preparing for software engineering internships
+## Projects
 
-##  Connect
-- GitHub: https://github.com/lochan-DEV
-- LinkedIn: https://www.linkedin.com/in/lochan-g/
-- Exercism: https://exercism.org/profiles/lochan-DEV
-- LeetCode: https://leetcode.com/u/Lochan-DEV/
-- email id: lochan1410a@gmail.com
+* **Library Management System** — Python-based project using files for data storage
+* **Python Learning** — practice programs and concepts learned while studying Python
+* **Exercism Solutions** — Python practice exercises
 
- Thanks for visiting my profile!
+
+## Current Focus
+
+* Strengthening Python fundamentals
+* Practicing problem solving
+* Building small projects
+* Learning how to use Git and GitHub properly
+* Understanding the basics of AI/ML alongside my coursework
+
+## Goals
+
+* Build a strong programming foundation
+* Complete useful small projects
+* Participate in hackathons and college activities
+* Explore AI/ML through projects and research
+* Gradually prepare for internships and placements
+
+## Connect
+
+* GitHub: https://github.com/lochan-DEV
+* LinkedIn: https://www.linkedin.com/in/lochan-g/
+* Exercism: https://exercism.org/profiles/lochan-DEV
+* LeetCode: https://leetcode.com/u/Lochan-DEV/
+* Email: [lochan1410a@gmail.com](mailto:lochan1410a@gmail.com)
+
+Thanks for visiting my profile!
+
